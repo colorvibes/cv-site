@@ -1,0 +1,346 @@
+url: "http://www.kairaleekalanilayam.com/"
+baseurl: ""
+
+# Site settings
+title: Singapore Kairalee Kala Nilayam
+email: singaporekairaleekalanilayam@gmail.com
+description: "Singapore Kairalee Kala Nilayam, Welcome To The Pioneer INDIAN ART HOUSE of Singapore"
+
+favicon: 'assets/images/favicon.ico'
+
+# Team names, titles and social links
+people:
+#- name: Kay Garland
+#  pic: 1
+#  position: Lead Designer
+#  social:
+#    - title: twitter
+#      url: #
+#    - title: facebook
+#      url: #
+#    - title: stack-overflow
+#      url: #
+
+# ---------------------------------------------------
+- name: D Sudheeran
+  pic: d.sudheeran
+  position: Advisor
+  social:
+    - title: facebook
+      url: https://www.facebook.com/sudheeran
+
+- name: G Rajeshkumar
+  pic: Rajeshkumar
+  position: Advisor
+  social:
+    - title: facebook
+      url: https://www.facebook.com/rajeshkumarking
+
+- name: Gangadharan Kunnon
+  pic: Gangadharan
+  position: Advisor
+  social:
+    - title: facebook
+      url: https://www.facebook.com/gangadharan.kunnon
+
+# ---------------------------------------------------      
+- name: Basil Baby
+  pic: basil
+  position: President
+  social:
+    - title: facebook
+      url: https://www.facebook.com/basilbabyy
+
+- name: Reshmi Pilla
+  pic: Reshmi-pp
+  position: General Secretary
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Krishnalal
+  pic: krishnalal
+  position: Treasurer 
+  social:
+    - title: facebook
+      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+- name: Jithu Mohan
+  pic: Jithu
+  position: Ladies Wing Chairman
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: MKV Rajesh
+  pic: mkv-rajesh
+  position: Vice President
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Sheeba
+  pic: Sheeba
+  position: Vice President
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+- name: Nannitha
+  pic: nannitha
+  position: Associate General Secretary
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: Vivek
+  pic: Vivek
+  position: Associate Treasurer
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Ragesh
+  pic: Ragesh
+  position: Cultural Secretary
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+- name: Veena
+  pic: veena_unny
+  position: Associate Cultural Secretary 
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: Gayathri
+  pic: Gayathri
+  position: Ladies Wing Convenor
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Shibolin
+  pic: Shibolin
+  position: Youth Wing Chairman
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+- name: Krishnakumar
+  pic: Krishnakumar
+  position: Auditor
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: Anish
+  pic: Anish_kunnathu
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Binoop
+  pic: Binoop-Nair
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+- name: Smitha
+  pic: smitha_nair
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: Subu
+  pic: subu-iyer
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Gini
+  pic: gini
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+- name: Sujith
+  pic: sujith
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: Harish
+  pic: Harish
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Nima
+  pic: nima
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+- name: Murali
+  pic: Murali_krishna
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: Muralee
+  pic: muralee_krishnan
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Sajin Ravi
+  pic: sajinRavi
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+- name: Biju Kurup
+  pic: biju-kuruppu
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: Metrice
+  pic: Metrice
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Panayam Liju
+  pic: Panayam_Liju
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+- name: Sebi
+  pic: sebi
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: Roshni
+  pic: Roshni
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Jayaram
+  pic: Jayaram
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+- name: Jacob
+  pic: Jacob
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: Rabin
+  pic: rabin
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Sam
+  pic: Sam
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+- name: Godwin
+  pic: Godwin
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: Renuka
+  pic: renuka
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: RR Subhas
+  pic: RR_subhas
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# ---------------------------------------------------
+- name: Fami
+  pic: fami
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/basilbabyy
+
+- name: Sreyus
+  pic: Sreyus
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/rajeshkumarking
+
+- name: Manoj Chandran
+  pic: Manoj_Chandran
+  position: Committee Member
+  social:
+#    - title: facebook
+#      url: https://www.facebook.com/krishnalal.pv.7
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/sgkairalee
+  - title: facebook
+    url: https://www.facebook.com/KairaleeKalaNilayam
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 110 Faber Terrace
+  - line: Singapore, 129065
+
+# Build settings
+markdown: kramdown
+permalink: pretty

@@ -1,0 +1,15 @@
+---
+title: Palam ( The Bridge)
+subtitle: Short play
+layout: default
+modal-id: 4
+date: 2017-05-06
+img: skkn-palam-2017.jpg
+thumbnail: skkn-palam-2017_thumbnail.jpg
+alt: image-alt
+project-date: April 2014
+client: Drama
+category: Web Development
+description: LStaged on May 6th 2017 ,Kallang theatre, part of  Vishu Nite program by Kala Singapore.  The play was in Gibberish; well received by the audience and appreciated by GoH MP of Sembawang GRC, Mr. Vikram Nair.
+
+---
