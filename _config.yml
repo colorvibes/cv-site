@@ -1,5 +1,12 @@
-url: "http://www.kairaleekalanilayam.com/"
-baseurl: ""
+url: "https://colorvibes.in/cv-site/"
+baseurl: "/cv-site"
+
+#baseurl: "/"
+
+# If you are building a GitHub project page then use these settings:
+# url: "https://www.iamgini.com/site2/"
+# baseurl: "/site2"
+
 
 # Site settings
 title: Singapore Kairalee Kala Nilayam
