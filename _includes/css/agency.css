@@ -275,7 +275,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/skkn-banner-01.jpg');
+    background-image: url('{{ site.baseurl }}/img/colorvibes-bg-beach.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
