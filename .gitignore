@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .vagrant
+vendor
 .jekyll-cache/
 .jekyll-metadata
 node_modules

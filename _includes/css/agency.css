@@ -58,9 +58,9 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .img-centered {
@@ -178,11 +178,12 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: #000;
+    /* background-color: #222; */
     background-color: #222;
 }
 
 .navbar-default .navbar-brand {
-    font-family: 'Quicksand',"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
@@ -244,7 +245,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 25px 0;
         border: 0;
-        background-color: #000;
+        background-color: #222;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
@@ -271,9 +272,22 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
+headercreativehub {
+    text-align: center;
+    color: #000;
+    background-attachment: scroll;
+    background-image: url('{{ site.baseurl }}/img/colorvibes-bg-idea-bulb.jpg');
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
 header {
     text-align: center;
-    color: #fff;
+    color: #000;
     background-attachment: scroll;
     background-image: url('{{ site.baseurl }}/img/colorvibes-bg-beach.jpg');
     background-position: center center;
@@ -291,9 +305,9 @@ header .intro-text {
 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
-    font-family: {{ site.data.template.font.secondary }};
+    font-family: {{ site.data.template.font.primary }};
     font-size: 22px;
-    font-style: italic;
+    font-style: none;
     line-height: 22px;
 }
 
@@ -349,9 +363,9 @@ headwf20 .intro-text .intro-heading {
 
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
-        font-family: {{ site.data.template.font.secondary }};
+        font-family: {{ site.data.template.font.primary }};
         font-size: 40px;
-        font-style: italic;
+        font-style: none;
         line-height: 40px;
     }
 
@@ -386,7 +400,8 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 100px 0;
+        background-color: #eee;
     }
 }
 
