@@ -7,12 +7,13 @@
 body {
     overflow-x: hidden;
     font-family: 'Quicksand', "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 18px;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
 .text-muted {
     color: #{{ site.data.template.color.muted }};
-    text-align: justify;
+    text-align: none;
 }
 
 .text-muted2 {
@@ -25,12 +26,12 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 18px;
     line-height: 1.75;
 }
 
 p.large {
-    font-size: 16px;
+    font-size: 18px;
 }
 
 a,
@@ -183,7 +184,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: 'Quicksand', "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
@@ -712,15 +713,46 @@ aside.clients img {
     margin: 50px auto;
 }
 
+section#creativehub {
+    background-color: #eee;
+    /*background-image: url('{{ site.baseurl }}/img/freddie-marriage-vSchPA-YA_A-unsplash.jpg');*/
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+section#services {
+    background-color: #000;
+    background-image: url('{{ site.baseurl }}/img/jeremy-bishop-G9i_plbfDgk-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+}
+section#services .section-heading {
+    color: #fff;
+}
+
+section#services .section-heading {
+    color: #fff;
+}
+
+section#services .text-unmuted {
+    color: #fff;
+}
+
+section#services .service-heading {
+    color: #fff;
+}
+
+
+
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-image: url('{{ site.baseurl }}/img/jess-bailey-q10VITrVYUM-unsplash.jpg.crdownload');
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: #000;
 }
 
 section#contact .form-group {
